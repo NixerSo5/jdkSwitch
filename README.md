@@ -16,7 +16,7 @@
 ## Installation Guide
 
 1. **Download jdkSwitch**  
-   - Obtain the latest version of the jdkSwitch tool from the [official repository](https://github.com/your-repo).
+   - Obtain the latest version of the jdkSwitch tool from the [official repository](https://github.com/NixerSo5/jdkSwitch/releases).
 
 2. **Run as Administrator**  
    - Right-click on the jdkSwitch executable and select "Run as administrator."
